@@ -13,9 +13,9 @@ services:
     ports:
       - "5000:5000"
     networks:
-    	- reverse_proxy
+      - reverse_proxy
     environment:
-    	VIRTUAL_HOST: "ds.nuttapat.me"
+      VIRTUAL_HOST: "ds.nuttapat.me"
       LETSENCRYPT_HOST: "ds.nuttapat.me"
       LETSENCRYPT_EMAIL: "webmaster@hackinteach.com"
 
