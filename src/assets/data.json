@@ -1,0 +1,48 @@
+{
+  "ILSC": [
+    {
+      "FormTypeId": 1,
+      "StoreId": 1,
+      "StatusId": "Active",
+      "Questions": [],
+      "Id": 1,
+      "Name": "ILSC Admission Form",
+      "Description": "2018",
+      "MetaKeywords": null,
+      "PageUrl": "ilsc-admission-form",
+      "ToEmail": null,
+      "CcEmail": null,
+      "BccEmail": null
+    },
+    {
+      "FormTypeId": 1,
+      "StoreId": 1,
+      "StatusId": "Active",
+      "Questions": [],
+      "Id": 2,
+      "Name": "Greystone Admission Form",
+      "Description": "2018",
+      "MetaKeywords": null,
+      "PageUrl": "greystone-admission-form",
+      "ToEmail": null,
+      "CcEmail": null,
+      "BccEmail": null
+    }
+  ],
+  "CanadaVisa": [
+    {
+      "FormTypeId": 2,
+      "StoreId": 1,
+      "StatusId": "Active",
+      "Questions": [],
+      "Id": 3,
+      "Name": "Canada Visa Form",
+      "Description": "2018",
+      "MetaKeywords": null,
+      "PageUrl": "canada-visa-form",
+      "ToEmail": null,
+      "CcEmail": null,
+      "BccEmail": null
+    }
+  ]
+}
