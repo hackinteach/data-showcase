@@ -10,7 +10,7 @@
           <v-list-tile slot="activator">
             <v-list-tile-content>
               <v-list-tile-title>
-                {{j}} <!--index-->
+                {{d[j].Name}} <!--index-->
               </v-list-tile-title>
             </v-list-tile-content>
           </v-list-tile>
