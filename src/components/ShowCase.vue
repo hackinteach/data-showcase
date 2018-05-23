@@ -63,7 +63,7 @@
 </template>
 
 <script>
-  import data from '../assets/data.json';
+  import {data} from '../assets/data.js';
 
   export default {
     data: () => ({
